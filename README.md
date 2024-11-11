@@ -1,7 +1,8 @@
 
 # Project: Book Recommender System Using Machine Learning! | Collaborative Filtering Based
 
-![Screenshot 2024-11-07 075239](https://github.com/user-attachments/assets/4dc9b1ba-e386-4e35-91e9-508f7048617b)
+![book rec](https://github.com/user-attachments/assets/8b15e501-426c-4afb-b924-68cc7768f3ab)
+
 
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
@@ -56,6 +57,9 @@ Uses : word2vec , embedding .
 
 ## Screenshots
 
-![App Screenshot]
+![Screenshot 2024-11-07 075313](https://github.com/user-attachments/assets/3dad709c-41c2-44df-a2c8-227fcf9c9833)
+![Screenshot 2024-11-07 075239](https://github.com/user-attachments/assets/be5b49ba-f18c-4c33-8836-cbf028a80ddb)
+![Screenshot 2024-11-07 075222](https://github.com/user-attachments/assets/2d571498-7ecf-45d5-98da-f5d6367bd682)
+![Screenshot 2024-11-07 075158](https://github.com/user-attachments/assets/f5adbd3d-4aed-4427-8051-7540b2807c08)
 
 
