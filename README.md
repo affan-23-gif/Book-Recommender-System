@@ -1,7 +1,7 @@
 
 # Project: Book Recommender System Using Machine Learning! | Collaborative Filtering Based
 
-https://www.google.com/imgres?q=recommender%20system%20book&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F114379464%2F235067025-0717cfa6-3977-40c5-b865-94226f679795.png&imgrefurl=https%3A%2F%2Fgithub.com%2Fsamchak18%2FBook-Recommendation-System&docid=9Za9mP0qzRd5MM&tbnid=gS2JqASqd_Z62M&vet=12ahUKEwixw431j8mJAxWC1DgGHZ28NCQQM3oECHUQAA..i&w=1280&h=720&hcb=2&ved=2ahUKEwixw431j8mJAxWC1DgGHZ28NCQQM3oECHUQAA
+![Screenshot 2024-11-07 075239](https://github.com/user-attachments/assets/4dc9b1ba-e386-4e35-91e9-508f7048617b)
 
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
